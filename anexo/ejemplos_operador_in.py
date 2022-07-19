@@ -11,6 +11,7 @@
 direccion_1 = 'Mendoza, Argentina'
 direccion_2 = 'Córdoba, Argentina'
 direccion_3 = 'La Paz, Bolivia'
+Cambiodeprueba = 'CAMBIO DE PRUEBA' 
 
 # Ensayemos algunos casos de ejemplo con la primera direccion
 es_direccion_argentina = 'Argentina' in direccion_1
